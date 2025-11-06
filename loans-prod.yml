@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to eazybank loans related prodution APIs"
+  message: "Welcome to eazybank loans related production APIs"
   contactDetails:
     name: "Mahmoud rezk"
     email: "mahmoudrezk514@gmail.com"
