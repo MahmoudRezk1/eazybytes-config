@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to eazybank accounts related production APIs"
   contactDetails:
     name: "Mahmoud rezk"
-    email: "mahmoudrezk514@gmail.com"
+    email: "{cipher}526e07db1a24d7a96eee57b71b550389265e2262724d7a675161ba96aae84b8b25f43e4f408ff5592b49c7521a7a79f9"
   onCallSupport:
     - (010) 130-446-52
     - (015) 510-308-33
