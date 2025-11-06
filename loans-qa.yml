@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to eazybank loans related QA APIs"
+  contactDetails:
+    name: "Mahmoud rezk"
+    email: "mahmoudrezk514@gmail.com"
+  onCallSupport:
+    - (010) 130-446-52
+    - (015) 510-308-33

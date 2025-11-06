@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to eazybank accounts related local APIs"
+  contactDetails:
+    name: "Mahmoud rezk"
+    email: "mahmoudrezk514@gmail.com"
+  onCallSupport:
+    - (010) 130-446-52
+    - (015) 510-308-33
